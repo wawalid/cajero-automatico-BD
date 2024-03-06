@@ -1,0 +1,16 @@
+-creacion de usuarios
+-creacion de transacciones
+-consultar transacciones
+
+
+
+
+
+-tener usuarios
+-administrador que pueda crear mas usuarios
+-cada usuario podra ingresar usuario y retirar dinero
+
+
+
+
+https://excalidraw.com/#room=5bbcbaf503de5f542ba5,8zVy7VWK0op38Upq83LeJw
